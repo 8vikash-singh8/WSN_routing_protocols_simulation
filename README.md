@@ -11,4 +11,4 @@ different simulation environments.
 
 Step 1:- Install Octave
 Step 2:- Pull Code&Results Directory
-Step 3:- run run_LPH_protocols.m in above directory using octave
+Step 3:- run run_LPH_protocols.m in above directory using octave.
