@@ -4,8 +4,8 @@ In this project we have studied various hierarchical routing protocols for their
 pros and cons. Subsequently, we have selected LEACH, PEGASIS and HEED
 routing protocols, based on their usefulness and have done a comparative
 study among them. Finally, a comparative study on the selected protocols are
-done based on several metrics such as: Load Balancing, Energy Consump-
-tion, Stability Period, Scalability and Network Lifetime through simulations
+done based on several metrics such as: Load Balancing, Energy Consumption, 
+Stability Period, Scalability and Network Lifetime through simulations
 of these routing protocols in OCTAVE on various simulation parameters and
 different simulation environments.
 
